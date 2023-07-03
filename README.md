@@ -1,0 +1,2 @@
+# DebriSafe
+Landslide prediction model
